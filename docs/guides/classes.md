@@ -6,27 +6,29 @@ C’est le vrai support parmi les personnages de départ, donc il ne faut pas s�
 C’est plutôt la bonne copine qui est là pour aider les autres, et elle dispose pour ce faire de nombreux outils à l’efficacité variable.
 Je pense qu’elle est mieux adaptée à une grosse équipe ; en tout cas dans une équipe plus réduite, il faudra sans doute faire de son mieux pour contribuer aux dégâts.
 
-> Les Plus :
+###### Les Plus
 
-    Une taille de main monumentale ! D’où une grande longévité, un moindre besoin de repos et souvent beaucoup de choix.
-    Beaucoup de soins, en haut et en bas des cartes. Dans un groupe débutant, les petites erreurs vont bon train, et ces soins seront les bienvenus.
-    De puissantes attaques de zone perdues (lost). Utilisées au bon moment, elles feront vraiment la différence et compenseront les attaques « normales » (non perdues) un peu faibles. La taille de main permet aussi de les utiliser avec plus de liberté que les autres classes (mais attention tout de même à ne pas tout balancer dès le début hein !) ;
-    L’accès au poison, très utile contre les ennemis qui ont beaucoup de points de vie ou de l’armure, à condition de réussir à porter le premier coup sur la cible.
+> - Une taille de main monumentale ! D’où une grande longévité, un moindre besoin derepos et souvent beaucoup de choix.
+> - Beaucoup de soins, en haut et en bas des cartes. Dans un groupe débutant, les petites erreurs vont bon train, et ces soins seront les bienvenus.
+> - De puissantes attaques de zone perdues (lost). Utilisées au bon moment, elles feront vraiment la différence et compenseront les attaques « normales » (nonperdues) un peu faibles. La taille de main permet aussi de les utiliser avecplus de liberté que les autres classes (mais attention tout de même à ne pastout balancer dès le début hein !) ;
+> - L’accès au poison, très utile contre les ennemis qui ont beaucoup de points devie ou de l’armure, à condition de réussir à porter le premier coup sur la cible.
 
 
-> Les Moins :
+###### Les Moins
 
-    Des dégâts normaux plutôt faibles.
-    Des cartes basées sur des mécaniques faibles. Ceci est mon point de vue, mais les pièges et les invocations sont des mécaniques, certes amusantes sur le papier, mais qui fonctionnent en pratique assez mal car elles sont peu fiables. Utiliser les pièges du décor, c’est génial et “facile”, devoir poser des pièges PUIS mettre les monstres dedans, c’est beaucoup moins efficient.
-    Une progression poussive. Je trouve que les cartes qu’on gagne avec les niveaux sont plus faibles en moyenne que celles des autres classes, il n’y en a aucune qui me fait dire « Wouah ma vie va changer !! ». J’ajoute à cela que la mécanique des soins subit aussi une perte de puissance avec la montée en niveaux et en difficulté à cause de l’augmentation des dégâts des monstres et des points de vie des personnages, non compensée par l’amélioration du dé comme le sont les attaques.
+> - Des dégâts normaux plutôt faibles.
 
-> Les « Ni Plus ni Moins » :
+> - Des cartes basées sur des mécaniques faibles. Ceci est mon point de vue, mais les pièges et les invocations sont des mécaniques, certes amusantes sur le papier, mais qui fonctionnent en pratique assez mal car elles sont peu fiables. Utiliser les pièges du décor, c’est génial et “facile”, devoir poser des pièges PUIS mettre les monstres dedans, c’est beaucoup moins efficient.
 
-    Points de vie élevés pour un personnage à distance. C’est plutôt sympa mais pas évident d’en tirer profit.
-    Une initiative correcte et stable : en se débrouillant bien, on peut jouer tous les tours importants entre 15 et 20. C’est correct vis-à-vis des monstres et prévisible par le reste de l’équipe, ce qui est un avantage. Par contre, aucune carte TRÈS rapide, ce qui peut poser problème parfois.
-    Une mobilité bof bof, mais tout à fait négociable pour un personnage à distance.
+> - Une progression poussive. Je trouve que les cartes qu’on gagne avec les niveaux sont plus faibles en moyenne que celles des autres classes, il n’y en a aucune qui me fait dire « Wouah ma vie va changer !! ». J’ajoute à cela que la mécanique des soins subit aussi une perte de puissance avec la montée en niveaux et en difficulté à cause de l’augmentation des dégâts des monstres et des points de vie des personnages, non compensée par l’amélioration du dé comme le sont les attaques.
 
-Conseils des testeurs :
+###### Les « Ni Plus ni Moins » :
+
+> - Points de vie élevés pour un personnage à distance. C’est plutôt sympa mais pas évident d’en tirer profit.
+> - Une initiative correcte et stable : en se débrouillant bien, on peut jouer tous les tours importants entre 15 et 20. C’est correct vis-à-vis des monstres et prévisible par le reste de l’équipe, ce qui est un avantage. Par contre, aucune carte TRÈS rapide, ce qui peut poser problème parfois.
+> - Une mobilité bof bof, mais tout à fait négociable pour un personnage à distance.
+
+##### Conseils des testeurs :
 
 Pas d’expérience sans actions perdues (c’est d’ailleurs une particularité de ce personnage) ! Il faudra donc utiliser au maximum la taille de main et jouer ces cartes perdues au bon moment si on veut avoir de l’impact et progresser en niveaux.
 Privilégiez dans vos cartes de départ soit les actions perdues qui sont très puissantes (principalement les attaques de zone) soit celles qui ont un côté normal intéressant. L’exemple typique : la carte d’invocation ; avec un bon placement, ce soin en bas sera un de vos meilleurs outils, et quand la fin du scénario approche, n’hésitez pas à passer devant pour poser votre robot en première ligne tout en utilisant votre ressource plutôt élevée de points de vie !

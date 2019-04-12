@@ -1,7 +1,7 @@
 # Guides de jeu
 
-[Nouvelle partie](guides/newgame.md)
+[Nouvelle partie](newgame.md)
 
-[Guide des classes](guides/classes.md)
+[Guide des classes](classes.md)
 
-[Guide des objets](guides/items.md)
+[Guide des objets](items.md)

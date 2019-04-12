@@ -4,16 +4,16 @@ Recueil de guides, aides au jeu et gestion de campagnes.
 
 ## Index
 
-[Guides](docs/guides/guides.md)
+[Guides](guides/guides.md)
 
-[Aides au jeu](docs/helpers/helpers.md)
+[Aides au jeu](helpers/helpers.md)
 
-[Media](docs/media/media.md)
+[Media](media/media.md)
 
-[Campagnes](docs/campaigns/campaigns.md)
+[Campagnes](campaigns/campaigns.md)
 
 ## Quickstart
 
-[Rejoindre l'aventure](docs/guides/newgame.md)
+[Rejoindre l'aventure](guides/newgame.md)
 
-[Choisir sa classe](docs/guides/classes.md)
+[Choisir sa classe](guides/classes.md)

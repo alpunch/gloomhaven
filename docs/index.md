@@ -1,6 +1,6 @@
 # Gloomhaven
 
-Receuil de guides, aides au jeu et gestion de campagnes
+Recueil de guides, aides au jeu et gestion de campagnes.  
 
 ## Index
 
@@ -16,8 +16,4 @@ Receuil de guides, aides au jeu et gestion de campagnes
 
 [Rejoindre l'aventure](/docs/guides/newgame.md)
 
-[Choisir sa classe](/docs/guides/)
-
-## FAQ
-
-WIP
+[Choisir sa classe](/docs/guides/classes.md)

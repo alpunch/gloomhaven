@@ -4,17 +4,19 @@ Receuil de guides, aides au jeu et gestion de campagnes
 
 ## Index
 
-[Guides](/docs/guides/index.md)
+[Guides](/docs/guides/guides.md)
 
-[Aides au jeu](/docs/helpers/index.md)
+[Aides au jeu](/docs/helpers/helpers.md)
 
-[Media](/docs/media/index.md)
+[Media](/docs/media/media.md)
 
-[Campagnes](/docs/campaings/index.md)
+[Campagnes](/docs/campaigns/campaigns.md)
 
 ## Quickstart
 
-[À lire avant de rejoindre l'aventure](/docs/guides/quickstart.md)
+[Rejoindre l'aventure](/docs/guides/newgame.md)
+
+[Choisir sa classe](/docs/guides/)
 
 ## FAQ
 

@@ -4,11 +4,14 @@ Envie de rejoindre l'aventure et avide dd'en savoir un peu plus sur le jeu ? C'e
 
 ## Les bases en vidéo
 
-Envie de savoir si le jeu va vous plaire ? [![Aperçu en 5 mins](http://img.youtube.com/vi/d6Deqf57hOA/0.jpg)](http://www.youtube.com/watch?v=d6Deqf57hOA "Aperçu en 5 mins"){: .align-center }
+Envie de savoir si le jeu va vous plaire ?  
+->[![Aperçu en 5 mins](http://img.youtube.com/vi/d6Deqf57hOA/0.jpg)](http://www.youtube.com/watch?v=d6Deqf57hOA "Aperçu en 5 mins")<-
 
-Comprendre les méchaniques [![Explications détaillées](http://img.youtube.com/vi/Pqs22it5zJk/0.jpg)](http://www.youtube.com/watch?v=Pqs22it5zJk "Explications détaillées"){: .align-center }
+Comprendre les méchaniques  
+->[![Explications détaillées](http://img.youtube.com/vi/Pqs22it5zJk/0.jpg)](http://www.youtube.com/watch?v=Pqs22it5zJk "Explications détaillées")<-
 
-Pour approfondir les règles [![Règles de campagne et critiques](http://img.youtube.com/vi/CKsTlqOiuXI/0.jpg)](http://www.youtube.com/watch?v=CKsTlqOiuXI "Règles de campagne et critiques"){: .align-center }
+Pour approfondir les règles  
+->[![Règles de campagne et critiques](http://img.youtube.com/vi/CKsTlqOiuXI/0.jpg)](http://www.youtube.com/watch?v=CKsTlqOiuXI "Règles de campagne et critiques")<-
 
 ## Le mouvement des monstres pour les nuls
 
@@ -80,7 +83,7 @@ En fait, même si je comprends l’existence de ce mode qui permet de refaire le
 
 Frustrations, car certains objectifs sont vraiment trop longs par rapport à d’autres, et voir ses camarades partir plusieurs fois en retraite, débloquer de nouveaux personnages, alors qu’on est ”bloqué” avec son objectif très difficile (ou complètement aléatoire) peut vraiment devenir frustrant pour certains. Et on est là pour s’amuser, non ? La frustration à cette échelle (c’est-à-dire accumulée tout au long de plusieurs séances de jeu) est un premier pas vers le non-amusement selon moi.
 
-![](http://ludovox.fr/wp-content/uploads/2015/03/quete-300x273.png){: .align-center }
+![](http://ludovox.fr/wp-content/uploads/2015/03/quete-300x273.png)
 
 Comme je l’ai déjà dit plusieurs fois, chaque groupe aura sa propre expérience Gloomhaven. Voyez comment cela se passe chez vous, peut-être que ce système vous conviendra bien. Mais si jamais vous commencez à sentir la frustration s’installer, ou que vous n’avez ni l’envie ni le temps de refaire du contenu déjà fait, n’hésitez pas à ne pas appliquer les règles au pied de la lettre. Je l’ai fait dans mon groupe, alors que je déteste en général les “règles maison”, et cela s’est très bien passé : quand quelqu’un voit qu’il n’arrivera pas à faire sa quête dans de bonnes conditions, et que tout le groupe estime qu’il a assez joué son personnage (la bonne foi générale est ici de mise évidemment !), il est autorisé à ignorer les requis de sa quête pour passer à la suite, soit l’ouverture d’une enveloppe soit le déblocage d’un scénario spécifique (ne passez pas à côté de ces scénarios supplémentaires !).
 Chez nous, les critères sont, la plupart du temps une bonne grosse dizaine de scénarios minimum et un cycle de retraite complet chez les autres joueurs. Cette méthode s’est vraiment bien alignée avec la durée de notre campagne, nous avons été pleinement satisfaits de la manière dont nous avons géré cette mécanique qui ne nous plaisait pas.
@@ -95,7 +98,7 @@ Je me souviens que j’avais trouvé ça un peu déstabilisant au début, mais p
 
 Le déroulement parfait où toute l’équipe fait un repos long synchronisé juste après un combat afin de choisir la carte qu’il perd et de redresser ses objets est bien rare (en tout cas il le fut dans mon groupe), très souvent vous serez contraint de faire un repos court, car votre équipe a besoin de vous tout de suite ! Cette gestion sera aussi très différente d’un personnage à l’autre, et apprendre à bien se reposer au bon moment fait partie de l’apprentissage d’un personnage.
 
-![](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-Main-768x282.jpg){: .align-center }
+![](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-Main-768x282.jpg)
 *Un chiffre qui change totalement la façon de jouer une classe*
 
 Quand on y réfléchit d’un peu plus près de manière théorique, l’équilibrage entre le repos court et le repos long est parfait, à chaque fois la question se pose : à quel moment tous ces petits avantages qu’apporte le repos long compensent-ils la perte d’un tour ? Mauvaise nouvelle : je n’ai pas la réponse ! Et c’est sans doute tant mieux, car cela amène un vrai intérêt. Par exemple, même dans un cas où tout est calme, un repos long me permet certes de redresser mes bottes, mais je pourrais à la place me déplacer de plus de cases que ce que me donneront ces bottes plus tard et ramasser cette petite pièce sur la route ; mais je ne cracherais pas non plus sur ces deux points de vie, raaaahhhh !!
@@ -105,7 +108,7 @@ La gestion de la fatigue diffère beaucoup d’un personnage à l’autre, mais 
 Jouer une grosse carte perdue dès la première pièce voire dès le premier tour est parfois très bien joué, parfois catastrophique a posteriori. Là encore, faites confiance au jeu. J’ai trouvé que l’équilibrage des scénarios était vraiment impressionnant malgré leur grand nombre, à condition évidemment d’avoir choisi la bonne difficulté !
 Essayez de suivre le rythme du scénario, mais aussi de l’équipe : un trop grand écart de cartes entre les membres de l’équipe dans la deuxième moitié de la partie n’est souvent pas bon signe, rien ne sert de pouvoir jouer encore dix tours si votre collègue est au bord de l’épuisement, sans lui la fin sera sans doute trop difficile.
 
-![](http://ludovox.fr/wp-content/uploads/2015/03/gloomhaven-cartes.jpg){: .align-center }
+![](http://ludovox.fr/wp-content/uploads/2015/03/gloomhaven-cartes.jpg)
 *Une carte qui change totalement la façon de jouer une classe*
 
 La diversité des situations est telle que je ne pense pas qu’il y ait réellement de théorie ou de règles absolues, mais je vais tout de même énoncer ici quelques principes théoriques simples, à prendre en compte lorsqu’on fait ses choix de cartes perdues et de repos :

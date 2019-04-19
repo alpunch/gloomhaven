@@ -105,7 +105,7 @@ La gestion de la fatigue diffère beaucoup d’un personnage à l’autre, mais 
 Jouer une grosse carte perdue dès la première pièce voire dès le premier tour est parfois très bien joué, parfois catastrophique a posteriori. Là encore, faites confiance au jeu. J’ai trouvé que l’équilibrage des scénarios était vraiment impressionnant malgré leur grand nombre, à condition évidemment d’avoir choisi la bonne difficulté !
 Essayez de suivre le rythme du scénario, mais aussi de l’équipe : un trop grand écart de cartes entre les membres de l’équipe dans la deuxième moitié de la partie n’est souvent pas bon signe, rien ne sert de pouvoir jouer encore dix tours si votre collègue est au bord de l’épuisement, sans lui la fin sera sans doute trop difficile.
 
-![](http://ludovox.fr/wp-content/uploads/2015/03/gloomhaven-cartes.jpg)
+![](http://ludovox.fr/wp-content/uploads/2015/03/gloomhaven-cartes.jpg){: .align-center }
 *Une carte qui change totalement la façon de jouer une classe*
 
 La diversité des situations est telle que je ne pense pas qu’il y ait réellement de théorie ou de règles absolues, mais je vais tout de même énoncer ici quelques principes théoriques simples, à prendre en compte lorsqu’on fait ses choix de cartes perdues et de repos :

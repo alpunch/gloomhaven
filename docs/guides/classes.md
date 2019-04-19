@@ -76,8 +76,8 @@ Pour les objets, je n’ai jamais joué ni vu jouer la Brute sans les bottes de 
 Ensuite, tout dépend de votre orientation, mais je trouve que le casque anti-critique est vraiment rentable pour le prix. Il y a un choix à faire au niveau 2, mais il faut vraiment avoir de sérieux arguments (par exemple une Bricoleuse vraiment dédiée au soin dans l’équipe) pour ne pas prendre l’armure et l’amélioration du dé qui ignore ses malus : elle coûte aussi une bouchée de pain et augmentera vraiment votre survie.
 Une fois qu’on a les bottes et l’armure, les repos longs deviennent vraiment intéressants. Si vous êtes riche, un marteau complétera votre panoplie du parfait guerrier !
 
-La Brochette Volante
-http://ludovox.fr/wp-content/uploads/2015/03/Gloom-BruteBrochette.jpg
+![](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-BruteBrochette.jpg)
+*La Brochette Volante*
 
 Profitez des premiers niveaux pour tester les différents aspects de la Brute et évaluer votre rôle dans votre groupe. En effet, lors des passages de niveau, il faudra assez souvent choisir entre une carte défensive et une carte offensive, et là on ne pourra plus vraiment revenir en arrière ! Il est aussi largement possible de prendre un peu des deux, de rester polyvalent, c’est même peut-être le meilleur moyen de jouer la Brute, tant au niveau de l’efficacité que de l’amusement.
 
@@ -117,8 +117,8 @@ Grâce à sa polyvalence, Coeur-de-Pierre s’intègre bien dans tous les groupe
 
 La carte perdue qui ajoute une cible à vos attaques à distance est selon moi la carte la plus puissante et une source d’expérience énorme, il faudra trouver le bon moment pour la poser (vu qu’elle est en haut, cela implique un tour sans dégâts et sans soins), et une fois en place, faire tout son possible pour en maximiser l’effet. Vu qu’une charge est consommée même s’il n’y a qu’une seule cible à portée, préférez les attaques de mêlée sur les ennemis isolés.
 
-[!CraggyCombo](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-CraggyCombo.jpg)
-De lourds dégats en perspective !
+![CraggyCombo](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-CraggyCombo.jpg)
+*De lourds dégats en perspective !*
 
 Je pense qu’un style de jeu varié au début est parfait pour commencer : un peu de mêlée, un peu de lancer de cailloux, un peu de soins, à doser selon les besoins de votre groupe. Ensuite il faudra faire des choix compliqués lors des montées de niveau, les cartes proposées étant toutes fortes voire très fortes dans les premiers niveaux, soit en comblant des lacunes du personnage soit en offrant de nouvelles options. Il y aura possibilité soit de se spécialiser, soit de rester polyvalent (toujours grâce à l’aide de la taille de main).
 
@@ -169,8 +169,8 @@ La Psyrate combine des dégâts de mêlée très constants et de très bons cont
 
 Ces augmentations modifieront les attaques de mêlée uniquement tant qu’elles sont devant le Mindthief. Malheureusement, cette mécanique fonctionne assez mal : l’augmentation qui ajoute deux points de dégâts aux attaques de mêlée est tellement meilleure que toutes les autres que les situations où l’on changera d’augmentation seront très rares. Sans cette carte active, on a vraiment l’impression de taper les monstres avec une épée en mousse.
 
-[!MindWeakness](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-MindWeakness.jpg)
-Votre meilleur ami
+![MindWeakness](http://ludovox.fr/wp-content/uploads/2015/03/Gloom-MindWeakness.jpg)
+*Votre meilleur ami*
 
 Du fait de sa fragilité, la Psyrate aura du mal à évoluer confortablement si elle est seule au corps-à-corps, ce facteur progressant avec la taille de l’équipe (il n’y aura sans doute aucun souci dans un groupe de deux, mais à partir de trois, il faudra vraiment faire attention). C’est l’archétype du canon de verre : il peut faire des choses fantastiques mais la moindre erreur se paie très cher.
 
